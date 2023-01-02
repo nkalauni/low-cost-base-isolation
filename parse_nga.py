@@ -1,3 +1,6 @@
+import numpy as np
+import os
+
 def processNGAfile(filepath, scalefactor=None):
     '''
     This function process acceleration history for NGA data file (.AT2 format)
