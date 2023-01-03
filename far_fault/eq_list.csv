@@ -1,0 +1,12 @@
+ -- Summary of Metadata of Selected Records --,,,,,,,,,,,,,,,,,,,,,
+Result ID, Spectral Ordinate, Record Sequence Number, Mean Squared Error, Scale Factor, Tp-Pulse Period (sec), 5-75% Duration (sec), 5-95% Duration (sec), Arias Intensity (m/sec), Earthquake Name, Year, Station Name, Magnitude, Mechanism, Rjb (km), Rrup (km), Vs30 (m/sec), Lowest Useable Frequency (Hz), Initial-search Scale Factor, Horizontal-1 Acc. Filename, Horizontal-2 Acc. Filename, Vertical Acc. Filename
+1, SRSS,804, -,1, -,5.3,12.1,0.1,Loma Prieta,1989,So. San Francisco_ Sierra Pt.,6.93, Reverse Oblique,63.03,63.15,1020.62,0.1,1, RSN804_LOMAP_SSF115.AT2, RSN804_LOMAP_SSF205.AT2 , RSN804_LOMAP_SSF-UP.AT2  
+2, SRSS,1257, -,1, -,14.4,25.9,0.2,Chi-Chi_ Taiwan,1999,HWA003,7.62, Reverse Oblique,52.46,56.14,1525.85,0.05,1, RSN1257_CHICHI_HWA003-N.AT2, RSN1257_CHICHI_HWA003-W.AT2 , RSN1257_CHICHI_HWA003-V.AT2  
+3, SRSS,1518, -,1, -,11.7,22.7,0.1,Chi-Chi_ Taiwan,1999,TCU085,7.62, Reverse Oblique,55.14,58.09,999.66,0,1, RSN1518_CHICHI_TCU085-E.AT2, RSN1518_CHICHI_TCU085-N.AT2 , RSN1518_CHICHI_TCU085-V.AT2  
+4, SRSS,1103, -,1, -,24,46,0.1,Kobe_ Japan,1995,FUK,6.9, strike slip,158.07,158.61,256,0.0625,1, RSN1103_KOBE_FUK000.AT2, RSN1103_KOBE_FUK090.AT2 , RSN1103_KOBE_FUK-UP.AT2  
+5, SRSS,943, -,1, -,7.4,13.2,0.1,Northridge-01,1994,Anacapa Island,6.69, Reverse,65.84,68.93,501.75,0.3,1, RSN943_NORTHR_ACI000.AT2, RSN943_NORTHR_ACI270.AT2 , RSN943_NORTHR_ACI-UP.AT2  
+6, SRSS,944, -,1, -,13.1,19.7,0.1,Northridge-01,1994,Anaheim - W Ball Rd,6.69, Reverse,66.32,68.62,269.29,0.375,1, RSN944_NORTHR_WBA000.AT2, RSN944_NORTHR_WBA090.AT2 , RSN944_NORTHR_WBA-UP.AT2  
+7, SRSS,166, -,1, -,4.7,11.1,0.2,Imperial Valley-06,1979,Coachella Canal #4,6.53, strike slip,49.1,50.1,336.49,0.1375,1, RSN166_IMPVALL.H_H-CC4045.AT2, RSN166_IMPVALL.H_H-CC4135.AT2 , RSN166_IMPVALL.H_H-CC4-UP.AT2  
+8, SRSS,196, -,1, -,3,11.6,0,Imperial Valley-07,1979,Delta,5.01, strike slip,49.4,49.93,242.05,2.5,1, RSN196_IMPVALL.A_A-DLT262.AT2, RSN196_IMPVALL.A_A-DLT352.AT2 , RSN196_IMPVALL.A_A-DLTDWN.AT2  
+9, SRSS,137, -,1, -,21.3,25.9,0.1,Tabas_ Iran,1978,Bajestan,7.35, Reverse,119.77,120.81,377.56,0.15625,1, RSN137_TABAS_BAJ-L1.AT2, RSN137_TABAS_BAJ-T1.AT2 , RSN137_TABAS_BAJ-V1.AT2  
+10, SRSS,140, -,1, -,20.5,24.2,0.2,Tabas_ Iran,1978,Ferdows,7.35, Reverse,89.76,91.14,302.64,0.15625,1, RSN140_TABAS_FER-L1.AT2, RSN140_TABAS_FER-T1.AT2 , RSN140_TABAS_FER-V1.AT2  
