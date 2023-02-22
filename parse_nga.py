@@ -1,5 +1,7 @@
 import numpy as np
+import pandas as pd
 import os
+import sys
 
 def processNGAfile(filepath, scalefactor=None):
     '''
@@ -61,3 +63,12 @@ def processNGAfile(filepath, scalefactor=None):
         return desc, npts, dt, time, inp_acc
     except IOError:
         print("processMotion FAILED!: File is not in the directory")
+
+def main():
+    filepath = sys.argv[1]
+    desc, npts, dt, time, acc = processNGAfile(filepath)
+    df = pd.DataFrame({'time':time,'acc':acc})
+    df.to_csv(filepath.split('.')[0]+'.csv',header=False,index=False)
+    
+if __name__ == "__main__":
+    main()
