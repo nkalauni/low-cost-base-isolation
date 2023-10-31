@@ -1,5 +1,5 @@
 Folder, Record Sequence Number, Mean Squared Error, Scale Factor, Tp-Pulse Period (sec), 5-75% Duration (sec), 5-95% Duration (sec), Arias Intensity (m/sec), Earthquake Name, Year, Station Name, Magnitude, Mechanism, Rjb (km), Rrup (km), Vs30 (m/sec), Lowest Useable Frequency (Hz), Initial-search Scale Factor, Horizontal-1 Acc. Filename, Horizontal-2 Acc. Filename, Vertical Acc. Filename
-san_fernando,77, -,1,1.638,5.8,7.3,8.9,San Fernando,1971,Pacoima Dam (upper left abut),6.61, Reverse,0,1.81,2016.13,0.0875,1, RSN77_SFERN_PUL164.AT2, RSN77_SFERN_PUL254.AT2 , RSN77_SFERN_PULDWN.AT2  
+san_fernando_nf,77, -,1,1.638,5.8,7.3,8.9,San Fernando,1971,Pacoima Dam (upper left abut),6.61, Reverse,0,1.81,2016.13,0.0875,1, RSN77_SFERN_PUL164.AT2, RSN77_SFERN_PUL254.AT2 , RSN77_SFERN_PULDWN.AT2  
 tabas_nf,143, -,1,6.188,8.3,16.5,11.8,Tabas_ Iran,1978,Tabas,7.35, Reverse,1.79,2.05,766.77,0.125,1, RSN143_TABAS_TAB-L1.AT2, RSN143_TABAS_TAB-T1.AT2 , RSN143_TABAS_TAB-V1.AT2  
 landers_nf,879, -,1,5.124,8.4,13.8,7,Landers,1992,Lucerne,7.28, strike slip,2.19,2.19,1369,0,1, RSN879_LANDERS_LCN260.AT2, RSN879_LANDERS_LCN345.AT2 , RSN879_LANDERS_LCN-UP.AT2  
 northridge_1050,1050, -,1,0.588,2,4.3,0.9,Northridge-01,1994,Pacoima Dam (downstr),6.69, Reverse,4.92,7.01,2016.13,0.16,1, RSN1050_NORTHR_PAC175.AT2, RSN1050_NORTHR_PAC265.AT2 , RSN1050_NORTHR_PAC-UP.AT2  
